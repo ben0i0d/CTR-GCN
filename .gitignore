@@ -1,0 +1,10 @@
+__pycache__
+
+data/ntu/raw_data
+data/ntu/denoised_data
+data/ntu/NTU60_CS.npz
+data/ntu/NTU60_CV.npz
+data/nturgbd_raw/
+
+runs/evaluate
+runs/pretrain

@@ -18,9 +18,9 @@ import glob
 
 # torch
 import torch
-import torch.backends.cudnn as cudnn
 import torch.nn as nn
 import torch.optim as optim
+
 import yaml
 from tensorboardX import SummaryWriter
 from tqdm import tqdm
